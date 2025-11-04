@@ -1,8 +1,7 @@
 # S&P 500 Prediction – Weekly Direction & LSTM Experiments
 
 I built this project at the Penn State **Office of Investment Management (OIM)** as part of my personal projects. I mostly reported to **Trajan Robertson** (Investment Analyst). The project was overseen by **Jocelin Reed** (Managing Director of Investments), and **Joseph Cullen**, Penn State’s Chief Investment Officer, reviewed my work as part of our process.
-
-I originally proposed a fund-performance model to rank funds and predict which ones would lead future performance. We didn’t have enough clean, long-horizon fund data to support a robust model, and the team wasn’t sure it would be immediately useful. So I pivoted—on my manager’s recommendation—to **S&P 500 prediction**, alongside a few other stocks. This aligned with our **weekly market discussion** meetings where we unpacked tax, trade, and market policy shifts, and broader developments that shape the next few weeks. Weekly direction turned out to be the tightest fit for how the team actually works.
+This model aligns with our **weekly market discussion** meetings where we unpack tax, trade, and market policy shifts, and broader developments that shape the next few weeks. Weekly direction turned out to be the tightest fit for how the team actually works.
 
 ---
 
